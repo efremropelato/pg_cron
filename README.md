@@ -1,4 +1,4 @@
-[![Citus Banner](/github-banner.png)](https://www.citusdata.com/)
+
 
 [![Slack Status](http://slack.citusdata.com/badge.svg)](https://slack.citusdata.com)
 
